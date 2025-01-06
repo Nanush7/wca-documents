@@ -1,6 +1,6 @@
 # WCA Scramble Accountability Policy
 
-### Version 2.0 {.version}
+### Version 2.1 {.version}
 
 ## Purpose
 
@@ -35,7 +35,7 @@ The purpose of this policy is to define standards on how official WCA scrambles 
         1. If there is no designated Waiting Area, fixed seating must be used, where all competitors in the ongoing group remain seated at the solving stations.
     3. The organization team may require the competitors to go back to the Waiting Area after each attempt, and have them be called to a different solving station for the next attempt.
     4. When competing in the same group, competitors must not actively try to watch another competitor make an official attempt.
-        1. The organization team and the WCA Delegate should reduce the possibility of the above occuring. This could include adding a visual barrier between solving stations and/or having a sufficient distance between the Waiting Area and the solving stations.
+        1. The organization team and the WCA Delegate should reduce the possibility of the above occurring. This could include adding a visual barrier between solving stations and/or having a sufficient distance between the Waiting Area and the solving stations.
         2. Solving Stations should not be arranged facing each other, unless a visual barrier is set up between them.
 4. Broadcasting of competitions
     1. When a competitor has been called for their group, they must not look at any broadcasting of their group.
